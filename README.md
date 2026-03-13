@@ -18,6 +18,7 @@ This project is a smart mailbox prototype built with an ESP32. It is designed to
 
 ## Technologies
 - Arduino C++
+- Python
 - ESP32
 - Embedded systems
 - Sensor integration
